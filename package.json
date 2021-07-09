@@ -1,0 +1,21 @@
+{
+  "name": "using-postgres-with-ocaml",
+  "dependencies": {
+    "ocaml": "4.12.x",
+    "@opam/dune": "*",
+    "@opam/opium": "*",
+    "@opam/ppx_deriving_yojson": "*",
+    "@opam/yojson": "*",
+    "@opam/uuidm": "*",
+    "@opam/caqti": "*",
+    "@opam/caqti-lwt": "*",
+    "@opam/caqti-driver-postgresql": "*",
+    "@opam/ppx_rapper": "*",
+    "@opam/ppx_rapper_lwt": "*",
+    "@opam/ctypes-foreign": "0.4.0"
+  },
+  "devDependencies": {
+    "@opam/ocaml-lsp-server": "*",
+    "@opam/ocamlformat": "*"
+  }
+}

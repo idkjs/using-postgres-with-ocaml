@@ -1,0 +1,6 @@
+{
+  "ocaml.sandbox": {
+		"kind": "esy",
+		"root": "${workspaceFolder:using-postgres-with-ocaml}"
+	}
+}
